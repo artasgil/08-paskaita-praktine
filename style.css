@@ -81,18 +81,23 @@
     padding: 20px;
   }
 
-  /* .fakeimg-2 {
+  .fakeimg-2 {
     background-color: #aaa;
     width: 100%;
     padding: 20px;
-    height:auto;
-  } */
+  }
 
-    img {
+  .leftcolumn img {
 
       width: 100%;
       height: auto;
   }
+
+  .rightcolumn img {
+
+    width: 100%;
+    height: auto;
+}
 
   
   /* Add a card effect for articles */
